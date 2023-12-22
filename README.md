@@ -1,0 +1,2 @@
+# .github
+Search X Corporation
